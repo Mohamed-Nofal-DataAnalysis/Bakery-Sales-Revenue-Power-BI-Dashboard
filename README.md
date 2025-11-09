@@ -16,9 +16,8 @@ Create a fully interactive Power BI dashboard for **"The Grand American Bakery &
 - Revenue split by customer (Donut + Map)  
 
 ## Dashboard Interaction (Click any slicer → everything updates live)  
-[Home Dashboard](https://github.com/Mohamed-Nofal-DataAnalysis/Bakery-Sales-Revenue-Power-BI-Dashboard/blob/main/Home%20Page%20.png)  
-[Cookie Dashboard](https://github.com/Mohamed-Nofal-DataAnalysis/Bakery-Sales-Revenue-Power-BI-Dashboard/blob/main/Cookie%20Type.png)  
-[CustomerType Dashboard](https://github.com/Mohamed-Nofal-DataAnalysis/Bakery-Sales-Revenue-Power-BI-Dashboard/blob/main/Home%20Page%20.png)  
+[Home Dashboard](https://github.com/Mohamed-Nofal-DataAnalysis/Bakery-Sales-Revenue-Power-BI-Dashboard/blob/main/Home%20Page%20.png) |  [Cookie Dashboard](https://github.com/Mohamed-Nofal-DataAnalysis/Bakery-Sales-Revenue-Power-BI-Dashboard/blob/main/Cookie%20Type.png)  | [CustomerType Dashboard](https://github.com/Mohamed-Nofal-DataAnalysis/Bakery-Sales-Revenue-Power-BI-Dashboard/blob/main/Home%20Page%20.png)  
+ 
 
 ## Process (Pro Level – Step by Step)  
 1. **Data Collection** → 4 tables (Orders, Customers, Products, Locations)  
