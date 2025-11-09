@@ -5,7 +5,7 @@
 Create a fully interactive Power BI dashboard for **"The Grand American Bakery & Pastry House"** that tracks sales, costs, and profit across Years, Quarters, States, Customers, and Cookie Types — with real-time filtering via slicers to skyrocket profitability!  
 
 ## Dataset Used  
-[Download Full Dataset (excel files)](https://github.com/YOUR-USERNAME/Bakery-Sales-Revenue-PowerBI-Dashboard/tree/main/Dataset)  
+[Download Full Dataset (excel files)](https://github.com/Mohamed-Nofal-DataAnalysis/Bakery-Sales-Revenue-Power-BI-Dashboard/tree/main/Dateset)  
 
 ## Questions (KPIs) Answered Instantly  
 - Total Revenue = $4.7M | Total Profit = $2.7M across 2019-2020  
