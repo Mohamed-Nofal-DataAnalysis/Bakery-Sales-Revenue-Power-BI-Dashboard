@@ -1,11 +1,11 @@
 # Bakery Sales & Revenue Interactive Dashboard  
-**(Built 100% in Power BI – Zero Excel)**  
+**(Built 100% in Power BI)**  
 
 ## Project Objective  
 Create a fully interactive Power BI dashboard for **"The Grand American Bakery & Pastry House"** that tracks sales, costs, and profit across Years, Quarters, States, Customers, and Cookie Types — with real-time filtering via slicers to skyrocket profitability!  
 
 ## Dataset Used  
-[Download Full Dataset (PBIX + CSV)](https://github.com/YOUR-USERNAME/Bakery-Sales-Revenue-PowerBI-Dashboard/tree/main/Dataset)  
+[Download Full Dataset (excel files)](https://github.com/YOUR-USERNAME/Bakery-Sales-Revenue-PowerBI-Dashboard/tree/main/Dataset)  
 
 ## Questions (KPIs) Answered Instantly  
 - Total Revenue = $4.7M | Total Profit = $2.7M across 2019-2020  
@@ -39,7 +39,8 @@ Dashboard Screenshots (Click to enlarge)
 <img src="https://github.com/YOUR-USERNAME/Bakery-Sales-Revenue-PowerBI-Dashboard/blob/main/Bakery_Main_Dashboard.png" alt="Main Dashboard">
 <img src="https://github.com/YOUR-USERNAME/Bakery-Sales-Revenue-PowerBI-Dashboard/blob/main/Chocolate_Chip_Dashboard.png" alt="Chocolate Chip Focus">
 <img src="https://github.com/YOUR-USERNAME/Bakery-Sales-Revenue-PowerBI-Dashboard/blob/main/ACME_Bites_Dashboard.png" alt="ACME Bites Deep Dive">
-Key Insights That Will Change Your Strategy
+
+## Key Insights That Will Change Your Strategy
 
 Chocolate Chip dominates with $1.7M revenue
 ACME Bites single-handedly delivers $830K profit → give them VIP treatment!
@@ -47,6 +48,6 @@ Huge Q4 2019 spike, then 2020 drop (COVID impact visible instantly)
 Only 5 states = 92% revenue → double down marketing there
 White Chocolate & Oatmeal = low margin → consider price increase or discontinuation
 
-Final Conclusion
+## Final Conclusion :
 This isn’t just a report… it’s a real-time profit machine.
 One click on any slicer and you instantly see where to produce more, where to cut losses, and which customer deserves a golden cookie!
