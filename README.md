@@ -9,7 +9,7 @@ Create a fully interactive Power BI dashboard for **"The Grand American Bakery &
 
 ## Questions (KPIs) Answered Instantly  
 - Total Revenue = $4.7M | Total Profit = $2.7M across 2019-2020  
-- # Top 1 Cookie = **Chocolate Chip** → $1.7M (37% of total revenue)  
+- Top 1 Cookie = **Chocolate Chip** → $1.7M (37% of total revenue)  
 - VIP Customer = **ACME Bites** → $830K profit  
 - Top 5 States generate 92% of revenue  
 - Monthly & quarterly trends (interactive line chart)  
