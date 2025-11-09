@@ -9,7 +9,7 @@ Create a fully interactive Power BI dashboard for **"The Grand American Bakery &
 
 ## Questions (KPIs) Answered Instantly  
 - Total Revenue = $4.7M | Total Profit = $2.7M across 2019-2020  
-- #1 Cookie = **Chocolate Chip** → $1.7M (37% of total revenue)  
+- # Top 1 Cookie = **Chocolate Chip** → $1.7M (37% of total revenue)  
 - VIP Customer = **ACME Bites** → $830K profit  
 - Top 5 States generate 92% of revenue  
 - Monthly & quarterly trends (interactive line chart)  
@@ -30,17 +30,18 @@ Create a fully interactive Power BI dashboard for **"The Grand American Bakery &
    Total Profit = [Total Revenue] - [Total Cost]  
    Profit % = DIVIDE([Total Profit], [Total Revenue])
 
-## Interactive Slicers →
+## Interactive Slicers :
  Year, Quarter, State, Customer Name, Cookie Type
-## Visuals →
+## Visuals :
 Line Chart, Bubble Map, Donut Chart, Bar Chart, KPI Cards, Sparkline
-## Design → 
+## Design :
 Warm pastel theme + bakery photos + custom tooltips
 
-Dashboard Screenshots (Click to enlarge)
-<img src="https://github.com/YOUR-USERNAME/Bakery-Sales-Revenue-PowerBI-Dashboard/blob/main/Bakery_Main_Dashboard.png" alt="Main Dashboard">
-<img src="https://github.com/YOUR-USERNAME/Bakery-Sales-Revenue-PowerBI-Dashboard/blob/main/Chocolate_Chip_Dashboard.png" alt="Chocolate Chip Focus">
-<img src="https://github.com/YOUR-USERNAME/Bakery-Sales-Revenue-PowerBI-Dashboard/blob/main/ACME_Bites_Dashboard.png" alt="ACME Bites Deep Dive">
+## Dashboard Screenshots (Click to enlarge)
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Bakery-Sales-Revenue-Power-BI-Dashboard/blob/main/Home%20Page%20.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Bakery-Sales-Revenue-Power-BI-Dashboard/blob/main/Cookie%20Type.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Bakery-Sales-Revenue-Power-BI-Dashboard/blob/main/Customer.png">
+<img src="https://github.com/Mohamed-Nofal-DataAnalysis/Bakery-Sales-Revenue-Power-BI-Dashboard/blob/main/Modeling.png">
 
 ## Key Insights That Will Change Your Strategy
 
