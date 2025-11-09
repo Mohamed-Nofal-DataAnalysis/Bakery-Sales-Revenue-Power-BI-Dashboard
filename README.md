@@ -30,9 +30,12 @@ Create a fully interactive Power BI dashboard for **"The Grand American Bakery &
    Total Profit = [Total Revenue] - [Total Cost]  
    Profit % = DIVIDE([Total Profit], [Total Revenue])
 
-6. **Interactive Slicers → Year, Quarter, State, Customer Name, Cookie Type
-7. **Visuals → Line Chart, Bubble Map, Donut Chart, Bar Chart, KPI Cards, Sparkline
-8. **Design → Warm pastel theme + bakery photos + custom tooltips
+6. ## Interactive Slicers →
+ Year, Quarter, State, Customer Name, Cookie Type
+7. ## Visuals →
+Line Chart, Bubble Map, Donut Chart, Bar Chart, KPI Cards, Sparkline
+8. ## Design → 
+Warm pastel theme + bakery photos + custom tooltips
 
 Dashboard Screenshots (Click to enlarge)
 <img src="https://github.com/YOUR-USERNAME/Bakery-Sales-Revenue-PowerBI-Dashboard/blob/main/Bakery_Main_Dashboard.png" alt="Main Dashboard">
